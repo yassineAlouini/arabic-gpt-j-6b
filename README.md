@@ -21,6 +21,7 @@ Thanks to HuggingFace and the TPU team for organising and providing the infra.
 ## Links
 
 
-- https://github.com/kingoflolz/mesh-transformer-jax/
-- https://6b.eleuther.ai/
-- https://colab.research.google.com/github/kingoflolz/mesh-transformer-jax/blob/master/colab_demo.ipynb#scrollTo=nvlAK6RbCJYg
+- The original GPT-J-6B [implementation](https://github.com/kingoflolz/mesh-transformer-jax/)
+- A web [demo](https://6b.eleuther.ai/) of GPT-J-6B 
+- A colab [notebook](https://colab.research.google.com/github/kingoflolz/mesh-transformer-jax/blob/master/colab_demo.ipynb#scrollTo=nvlAK6RbCJYg)
+- A GPT-J "simple" [implementation](https://github.com/nickthorpie/gpt-j-simple)
